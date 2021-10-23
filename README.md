@@ -2,5 +2,5 @@
 
 Console output examples:
 
-<img src="images/startView.PNG">
-<img src="images/viewBooks.PNG">
+<img src="images/consoleOutput.PNG">
+<img src="images/consoleOutput2.PNG">
